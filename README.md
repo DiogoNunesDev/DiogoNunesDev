@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diogo Nunes!
-- 👀 I’m interested in Coding and Stocks.
+- 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently in my bachelor wich is Computer Science and Business Management.
 - 📫 How to reach me diogo.mmc.nunes@gmail.com
 
