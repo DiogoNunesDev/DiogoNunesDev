@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diogo Nunes!
 - 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently in my bachelor wich is Computer Science and Business Management.
+- 🌱 I’m currently in my bachelor which is Computer Science and Business Management.
 - 📫 How to reach me diogo.mmc.nunes@gmail.com
 
 <!---
