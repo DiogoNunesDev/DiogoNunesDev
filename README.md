@@ -6,7 +6,6 @@
 ⚡ Currently Working on 2 Projects:  <br>
  - An Airplane Controller with Reinforcement Learning.<br>      
  - A Fire Risk Prevention System for properties.<br>
- <br>
  📫 How to reach me diogo.mmc.nunes@gmail.com or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diogomnunes) <br>
 
 # 💻 Tech Stack:
