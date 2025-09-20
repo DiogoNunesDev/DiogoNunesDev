@@ -5,6 +5,7 @@
 🌱 Currently diving deep into Reinforcement Learning (Actor-Critic Methods) and Computer Vision (Semantic Segmentation).<br>
 ✈️ Currently working on:  
 - An **Airplane Controller with Reinforcement Learning** (Navigation + Attitude Control)<br>
+<br>
 📫 Reach me at: **diogo.mmc.nunes@gmail.com** or  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diogomnunes)  
 
